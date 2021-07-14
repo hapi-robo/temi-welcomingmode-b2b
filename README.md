@@ -1,6 +1,7 @@
 # temi Welcoming Mode B2B
 This is an example skill that uses temi's Welcoming Mode.
 
+**Note that this app is no longer officially supported by temi as of release 124.**
 
 ## Setup
 Clone and compile from source.
